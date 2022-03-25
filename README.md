@@ -31,7 +31,7 @@ this repository:
 
 ```sh
 # Activate your conda environment
-conda activate scikit-learn-course
+conda activate PSL_week
 python check_env.py
 ```
 
@@ -39,7 +39,7 @@ Make sure that there is no `FAIL` in the output when running the `check_env.py`
 script, i.e. that its output looks similar to this:
 
 ```
-Using python in /home/lesteve/miniconda3/envs/scikit-learn-course
+Using python in /home/username/miniconda3/envs/PSL_week
 3.9.1 | packaged by conda-forge | (default, Jan 10 2021, 02:55:42)
 [GCC 9.3.0]
 
