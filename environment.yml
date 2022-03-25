@@ -1,0 +1,17 @@
+name: PSL_week
+channels:
+  - defaults
+dependencies:
+  - seaborn
+  - notebook
+  - jupyter
+  - plotly
+  - joblib
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn >= 1.0
+  - PyWavelets
+  - pip
+  - pip:
+    - ramp-workflow
