@@ -58,6 +58,6 @@ Using python in /home/lesteve/miniconda3/envs/scikit-learn-course
 ```sh
 # Activate your conda environment
 conda activate PSL_week
-jupyter notebook full-index.md
+jupyter notebook
 ```
 
