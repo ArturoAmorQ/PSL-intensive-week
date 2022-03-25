@@ -17,8 +17,8 @@ scikit-learn, and matplotlib.
 
 ```sh
 # Clone this repo
-git clone https://github.com/INRIA/scikit-learn-mooc
-cd scikit-learn-mooc
+git clone https://github.com/ArturoAmorQ/PSL-intensive-week
+cd PSL-intensive-week
 # Create a conda environment with the required packages for this tutorial:
 conda env create -f environment.yml
 ```
@@ -57,10 +57,7 @@ Using python in /home/lesteve/miniconda3/envs/scikit-learn-course
 
 ```sh
 # Activate your conda environment
-conda activate scikit-learn-course
+conda activate PSL_week
 jupyter notebook full-index.md
 ```
-
-`full-index.md` is an index file helping to navigate the notebooks.
-All the Jupyter notebooks are located in the `notebooks` folder.
 
